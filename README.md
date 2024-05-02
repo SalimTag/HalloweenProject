@@ -1,4 +1,5 @@
 # HalloweenProject
+
 /******************************************************************************
 Author: Salim Tagemouati
 Date-Written:11/7/23
@@ -7,6 +8,7 @@ Description: This program will ask for the name, gender, ager, costume name
              It keeps total for kids, gender, average rating, and total pieces of candy. 
              it calculates the rating for each costume.
 *******************************************************************************/
+
 #include <iostream>
 #include <string>
 #include <algorithm>
